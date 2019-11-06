@@ -1,2 +1,7 @@
 # class-basics
-basic class
+## how to run
+
+```
+make clean; make all -j4
+
+```
